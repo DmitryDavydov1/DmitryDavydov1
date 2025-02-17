@@ -11,7 +11,7 @@ Java Backend-Developer
 - 💡 Tools: IntelliJ IDEA, Git, Maven
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSing1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryDavydov1&layout=compact)
 
 ## My best projects 💻
 - **Ai-assistant** 💬📚  
@@ -21,7 +21,7 @@ Java Backend-Developer
   - OpenAi
   - Spring Web
   - PostgreSQL 🗄️  
-    [Асистент](https://github.com/CoderSing1/ai-assistant)
+    [Асистент](https://github.com/DmitryDavydov1/ai-assistant)
 
 
 ## My contact 🤝
