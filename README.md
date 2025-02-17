@@ -1,10 +1,10 @@
-## 🙋‍♂️ About me:
+# 🙋‍♂️ About me:
 Java Backend-Developer 
 - Студент-программист🧑🏻‍💻
 - Изучаю программирование с 2023 года
 - Изучаю и постигаю вершины Java☕️  и бэкенд-разработки
 
-## 🛠 Tech Stack:
+# 🛠 Tech Stack:
 - ☕ Languages: Java, Python
 - 🐘 Database: PostgresSQL
 - 🌱 Frameworks: Spring Boot
@@ -13,7 +13,7 @@ Java Backend-Developer
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryDavydov1&layout=compact)
 
-## My best projects 💻
+# My best projects 💻
 - **Ai-assistant** 💬📚  
   Ассистент для автоматизации клиентских вопросов на основе загружаемых данных.  
   🔧 **Технологии:**  
@@ -24,7 +24,7 @@ Java Backend-Developer
     [Асистент](https://github.com/DmitryDavydov1/ai-assistant)
 
 
-## My contact 🤝
+# My contact 🤝
 
 <a href="https://t.me/username" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram">
