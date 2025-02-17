@@ -1,4 +1,38 @@
-## Hi there 👋
+## 🙋‍♂️ About me:
+Java Backend-Developer 
+- Студент-программист🧑🏻‍💻
+- Изучаю программирование с 2023 года
+- Изучаю и постигаю вершины Java☕️  и бэкенд-разработки
+
+## 🛠 Tech Stack:
+- ☕ Languages: Java, Python
+- 🐘 Database: PostgresSQL
+- 🌱 Frameworks: Spring Boot
+- 💡 Tools: IntelliJ IDEA, Git, Maven
+
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSing1&layout=compact)
+
+## My best projects 💻
+- **Ai-assistant** 💬📚  
+  Ассистент для автоматизации клиентских вопросов на основе загружаемых данных.  
+  🔧 **Технологии:**  
+  - Java
+  - OpenAi
+  - Spring Web
+  - PostgreSQL 🗄️  
+    [Асистент](https://github.com/CoderSing1/ai-assistant)
+
+
+## My contact 🤝
+
+<a href="https://t.me/username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram">
+</a>
+
+
+
+
 
 <!--
 **CoderSing1/CoderSing1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +46,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
