@@ -13,6 +13,8 @@ Java Backend-Developer
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryDavydov1&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryDavydov1&theme=2077)
+
 # My best projects 💻
 - **Ai-assistant** 💬📚  
   Ассистент для автоматизации клиентских вопросов на основе загружаемых данных.  
@@ -29,7 +31,6 @@ Java Backend-Developer
 <a href="https://t.me/username" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram">
 </a>
-
 
 
 
