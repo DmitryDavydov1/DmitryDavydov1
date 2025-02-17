@@ -1,21 +1,35 @@
-# 🙋‍♂️ About me:
+## 🙋‍♂️ About me:
 Java Backend-Developer 
 - Студент-программист🧑🏻‍💻
 - Изучаю программирование с 2023 года
 - Изучаю и постигаю вершины Java☕️  и бэкенд-разработки
+- 
+---
 
-# 🛠 Tech Stack:
+  
+
+## 🛠 Tech Stack:
 - ☕ Languages: Java, Python
 - 🐘 Database: PostgresSQL
 - 🌱 Frameworks: Spring Boot
 - 💡 Tools: IntelliJ IDEA, Git, Maven
+---
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryDavydov1&layout=compact)
+## Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryDavydov1&theme=2077)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryDavydov1&layout=compact" />
+</p>
 
-# My best projects 💻
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryDavydov1&theme=2077" />
+</p>
+
+---
+
+
+
+## My best projects 💻
 - **Ai-assistant** 💬📚  
   Ассистент для автоматизации клиентских вопросов на основе загружаемых данных.  
   🔧 **Технологии:**  
@@ -25,12 +39,16 @@ Java Backend-Developer
   - PostgreSQL 🗄️  
     [Асистент](https://github.com/DmitryDavydov1/ai-assistant)
 
+---
 
-# My contact 🤝
+## My contact 🤝
 
-<a href="https://t.me/username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram">
-</a>
+<p align="center">
+  <a href="https://t.me/username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="80" alt="Telegram">
+  </a>
+</p>
+
 
 
 
