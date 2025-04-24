@@ -11,7 +11,7 @@ Java Backend-Developer
 ## 🛠 Tech Stack:
 - ☕ Languages: Java, Python
 - 🐘 Database: PostgresSQL
-- 🌱 Frameworks: Spring Boot, Sping Security, Hibernate
+- 🌱 Frameworks: Spring Boot, Spring Security, Hibernate
 - 💡 Tools: IntelliJ IDEA, Git, Maven
 ---
 
